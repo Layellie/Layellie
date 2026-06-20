@@ -20,7 +20,6 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit and push
