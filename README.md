@@ -111,6 +111,10 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Layellie/Layellie/main/github-metrics.svg" alt="Metrics panel" />
+
 </div>
 
 <!-- ===================== SNAKE ===================== -->
@@ -122,6 +126,19 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
   <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ===================== 3D CALENDAR ===================== -->
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img width="100%" alt="3D contribution calendar" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
