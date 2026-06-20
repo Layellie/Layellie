@@ -19,8 +19,14 @@
 
 </div>
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
+
+<table border="0">
+<tr>
+<td width="64%" valign="top">
 
 > _I build software that's fast, focused, and a little obsessed with what's happening beneath the abstraction._
 
@@ -30,6 +36,17 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
 - 🌐 &nbsp;**Web** — modern, responsive apps with **React, TypeScript & Tailwind CSS**.
 - ⚡ &nbsp;I care about clean code, snappy UX, and tools people actually keep using.
 - 📚 &nbsp;Currently going deeper into **systems programming** and **front-end architecture**.
+
+</td>
+<td width="36%" valign="middle" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
@@ -48,6 +65,8 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
 <td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,windows" alt="Tools" /></td>
 </tr>
 </table>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -69,6 +88,8 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
   </a>
 </p>
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
@@ -86,6 +107,15 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
 
 </div>
+
+<!-- ===================== QUOTE ===================== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect
