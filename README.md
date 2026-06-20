@@ -1,3 +1,4 @@
+<!-- Profile README for github.com/Layellie -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Samet%20Ka%C5%9Fmer&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Software%20Developer&descAlignY=62&descSize=18" width="100%" alt="Samet Kaşmer — Software Developer" />
