@@ -52,7 +52,7 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css" alt="Languages" /></td>
+<td><img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,js,ts,html,css" alt="Languages" /></td>
 </tr>
 <tr>
 <td><b>Frameworks&nbsp;&amp;&nbsp;Libraries</b></td>
@@ -60,7 +60,14 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 </tr>
 <tr>
 <td><b>Tools&nbsp;&amp;&nbsp;Platforms</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,windows" alt="Tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,obsidian,windows" alt="Tools" /></td>
+</tr>
+<tr>
+<td><b>AI&nbsp;&amp;&nbsp;Workflow</b></td>
+<td valign="middle">
+  <a href="https://claude.com/claude-code"><img height="28" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  &nbsp;<img height="28" src="https://img.shields.io/badge/Antigravity-1A1B3A?style=for-the-badge&logoColor=white" alt="Antigravity" />
+</td>
 </tr>
 </table>
 
