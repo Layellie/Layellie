@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Samet%20Ka%C5%9Fmer&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Samet Kaşmer — Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Layellie&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Layellie — Full-Stack Developer" />
 
 <a href="https://github.com/Layellie">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;C%23+%26+C%2B%2B+desktop+tools;Modern+web+apps+with+React;Always+shipping%2C+always+learning" alt="Roles" />
@@ -30,7 +30,7 @@
 
 > _Full-Stack Developer — turning ideas into fast, polished software, from low-level Windows internals to pixel-perfect React interfaces._
 
-Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
+Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
 - 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
 - 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** app with reminders, gamification & a home-screen widget
@@ -100,7 +100,7 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Layellie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Layellie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Layellie%27s%20GitHub%20Stats" alt="Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layellie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
