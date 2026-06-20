@@ -30,13 +30,13 @@
 
 > _Full-Stack Developer — turning ideas into fast, polished software, from low-level Windows internals to pixel-perfect React interfaces._
 
-Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I've trained myself to deliver across the entire stack: writing **performance-critical desktop software in C# / C++** on one end, and building **modern, responsive web apps with React, TypeScript & Tailwind CSS** on the other.
+Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
-- 🛠️ &nbsp;**Desktop / Systems** — shipped **StandbyAndTimer** (RAM purge + 0.5 ms system timer) and **AIO-Hybrid-Clipboard** (C#/C++ clipboard manager with OCR & reverse image search)
-- 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** water-tracking app with reminders, gamification & a home-screen widget
-- 🌐 &nbsp;**Web** — built **fittakip** (React fitness tracker) and my **React + Vite + Tailwind portfolio**
-- 🚀 &nbsp;**Sharpening now** — systems programming, scalable front-end architecture & cross-platform Flutter apps
-- 🎯 &nbsp;Obsessed with clean code, snappy UX, and tools people actually keep using
+- 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
+- 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** app with reminders, gamification & a home-screen widget
+- 🌐 &nbsp;**Web** — **React, TypeScript & Tailwind** apps like **fittakip** and my personal portfolio
+- 💡 &nbsp;**Driven by curiosity** — I pick up new languages and tools because I genuinely enjoy them, then build real projects to master them
+- 🎯 &nbsp;Obsessed with clean code, snappy UX, and software people actually keep using
 
 </td>
 <td width="38%" valign="middle" align="center">
