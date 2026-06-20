@@ -33,8 +33,9 @@
 Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I've trained myself to deliver across the entire stack: writing **performance-critical desktop software in C# / C++** on one end, and building **modern, responsive web apps with React, TypeScript & Tailwind CSS** on the other.
 
 - 🛠️ &nbsp;**Desktop / Systems** — shipped **StandbyAndTimer** (RAM purge + 0.5 ms system timer) and **AIO-Hybrid-Clipboard** (C#/C++ clipboard manager with OCR & reverse image search)
+- 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** water-tracking app with reminders, gamification & a home-screen widget
 - 🌐 &nbsp;**Web** — built **fittakip** (React fitness tracker) and my **React + Vite + Tailwind portfolio**
-- 🚀 &nbsp;**Sharpening now** — systems programming, scalable front-end architecture, and end-to-end full-stack delivery
+- 🚀 &nbsp;**Sharpening now** — systems programming, scalable front-end architecture & cross-platform Flutter apps
 - 🎯 &nbsp;Obsessed with clean code, snappy UX, and tools people actually keep using
 
 </td>
@@ -46,17 +47,19 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 </tr>
 </table>
 
+<br/>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
 
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,js,ts,html,css" alt="Languages" /></td>
+<td><img src="https://skillicons.dev/icons?i=cs,cpp,dart,js,ts,html,css" alt="Languages" /></td>
 </tr>
 <tr>
 <td><b>Frameworks&nbsp;&amp;&nbsp;Libraries</b></td>
-<td><img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,vite" alt="Frameworks" /></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,flutter,react,tailwind,vite" alt="Frameworks" /></td>
 </tr>
 <tr>
 <td><b>Tools&nbsp;&amp;&nbsp;Platforms</b></td>
@@ -72,7 +75,7 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 </table>
 
 <div align="center">
-<img width="78%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="dev workspace" />
+<img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="coding at sunset" />
 </div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
@@ -89,9 +92,6 @@ Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programmin
 <p align="center">
   <a href="https://github.com/Layellie/Layellie.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=Layellie.github.io&theme=tokyonight&hide_border=true&show_owner=false" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Layellie/fittakip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=fittakip&theme=tokyonight&hide_border=true&show_owner=false" alt="fittakip" />
   </a>
 </p>
 
