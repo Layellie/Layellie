@@ -85,9 +85,6 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="coding at sunset" />
 </div>
 
-<br/>
-<br/>
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
@@ -105,9 +102,6 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=Layellie.github.io&theme=tokyonight&hide_border=true&show_owner=false" alt="Portfolio" />
   </a>
 </p>
-
-<br/>
-<br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
