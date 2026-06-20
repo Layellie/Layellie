@@ -19,7 +19,11 @@
 
 </div>
 
+<br/>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+
+<br/>
 
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
@@ -48,6 +52,7 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 </table>
 
 <br/>
+<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
@@ -74,9 +79,14 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 <img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="coding at sunset" />
 </div>
+
+<br/>
+<br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -89,11 +99,15 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=AIO-Hybrid-Clipboard&theme=tokyonight&hide_border=true&show_owner=false" alt="AIO-Hybrid-Clipboard" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Layellie/Layellie.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=Layellie.github.io&theme=tokyonight&hide_border=true&show_owner=false" alt="Portfolio" />
   </a>
 </p>
+
+<br/>
+<br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
@@ -101,21 +115,28 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Layellie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Layellie%27s%20GitHub%20Stats" alt="Stats" />
+&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layellie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
+<br/>
 <br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=Layellie&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 <br/>
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
 
+<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/Layellie/Layellie/main/github-metrics.svg" alt="Metrics panel" />
 
 </div>
+
+<br/>
+<br/>
 
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 Watch My Contributions Grow
@@ -130,6 +151,9 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 
 </div>
 
+<br/>
+<br/>
+
 <!-- ===================== 3D CALENDAR ===================== -->
 ## 🧊 3D Contribution Calendar
 
@@ -142,6 +166,9 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 </picture>
 
 </div>
+
+<br/>
+<br/>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect
