@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Samet%20Ka%C5%9Fmer&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Samet Kaşmer — Software Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Samet%20Ka%C5%9Fmer&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Samet Kaşmer — Full-Stack Developer" />
 
 <a href="https://github.com/Layellie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Performance-focused+Windows+utilities;C%23+%26+C%2B%2B+desktop+tools;Modern+web+apps+with+React;Always+shipping%2C+always+learning" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;C%23+%26+C%2B%2B+desktop+tools;Modern+web+apps+with+React;Always+shipping%2C+always+learning" alt="Roles" />
 </a>
 
 <br/>
@@ -26,27 +26,25 @@
 
 <table border="0">
 <tr>
-<td width="64%" valign="top">
+<td width="62%" valign="top">
 
-> _I build software that's fast, focused, and a little obsessed with what's happening beneath the abstraction._
+> _Full-Stack Developer — turning ideas into fast, polished software, from low-level Windows internals to pixel-perfect React interfaces._
 
-I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate from Türkiye. My work lives at two ends of the stack:
+Hi, I'm **Samet Kaşmer** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I've trained myself to deliver across the entire stack: writing **performance-critical desktop software in C# / C++** on one end, and building **modern, responsive web apps with React, TypeScript & Tailwind CSS** on the other.
 
-- 🛠️ &nbsp;**Systems & desktop** — performance-oriented Windows utilities in **C# / C++**: RAM management, sub-millisecond system timing, and OCR-powered tooling.
-- 🌐 &nbsp;**Web** — modern, responsive apps with **React, TypeScript & Tailwind CSS**.
-- ⚡ &nbsp;I care about clean code, snappy UX, and tools people actually keep using.
-- 📚 &nbsp;Currently going deeper into **systems programming** and **front-end architecture**.
+- 🛠️ &nbsp;**Desktop / Systems** — shipped **StandbyAndTimer** (RAM purge + 0.5 ms system timer) and **AIO-Hybrid-Clipboard** (C#/C++ clipboard manager with OCR & reverse image search)
+- 🌐 &nbsp;**Web** — built **fittakip** (React fitness tracker) and my **React + Vite + Tailwind portfolio**
+- 🚀 &nbsp;**Sharpening now** — systems programming, scalable front-end architecture, and end-to-end full-stack delivery
+- 🎯 &nbsp;Obsessed with clean code, snappy UX, and tools people actually keep using
 
 </td>
-<td width="36%" valign="middle" align="center">
+<td width="38%" valign="middle" align="center">
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" />
 
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
@@ -66,7 +64,9 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+<div align="center">
+<img width="78%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="dev workspace" />
+</div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -88,8 +88,6 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
   </a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
-
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
@@ -108,7 +106,18 @@ I'm **Samet Kaşmer**, a Software Developer and Computer Programming graduate fr
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Watch My Contributions Grow
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect
