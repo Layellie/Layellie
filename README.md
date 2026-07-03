@@ -125,16 +125,6 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 [![Live](https://img.shields.io/badge/Live-Visit-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
 
 </td>
-<td width="50%" valign="top">
-
-### 📱 DailyWell &nbsp;<sub>· coming soon</sub>
-
-A **Flutter (Dart)** wellness app with reminders, gamification &amp; a home-screen widget.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-</td>
 </tr>
 </table>
 
