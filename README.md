@@ -88,29 +88,69 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Layellie/StandbyAndTimer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=StandbyAndTimer&theme=tokyonight&hide_border=true&show_owner=false" alt="StandbyAndTimer" />
-  </a>
-  <a href="https://github.com/Layellie/AIO-Hybrid-Clipboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=AIO-Hybrid-Clipboard&theme=tokyonight&hide_border=true&show_owner=false" alt="AIO-Hybrid-Clipboard" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Layellie/Layellie.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Layellie&repo=Layellie.github.io&theme=tokyonight&hide_border=true&show_owner=false" alt="Portfolio" />
-  </a>
-</p>
+### ⏱️ [StandbyAndTimer](https://github.com/Layellie/StandbyAndTimer)
+
+Advanced **RAM purge** &amp; **0.5 ms** system timer-resolution tool for Windows.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9)](https://github.com/Layellie/StandbyAndTimer/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9&label=release)](https://github.com/Layellie/StandbyAndTimer/releases)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 [AIO-Hybrid-Clipboard](https://github.com/Layellie/AIO-Hybrid-Clipboard)
+
+Blazing-fast hybrid clipboard manager with built-in **OCR** and reverse image text search.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=6D28D9)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio — layellie.github.io](https://github.com/Layellie/Layellie.github.io)
+
+My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer Motion**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Live](https://img.shields.io/badge/Live-Visit-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 DailyWell &nbsp;<sub>· coming soon</sub>
+
+A **Flutter (Dart)** wellness app with reminders, gamification &amp; a home-screen widget.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Layellie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Layellie%27s%20GitHub%20Stats" alt="Stats" />
+<img width="700" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+
+<br/>
+<br/>
+
+<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layellie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
 
 <br/>
 <br/>
