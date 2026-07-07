@@ -37,7 +37,6 @@
 Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
 - 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
-- 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** app with reminders, gamification & a home-screen widget
 - 🌐 &nbsp;**Web** — **React, TypeScript & Tailwind** apps like my personal portfolio
 - 💡 &nbsp;**Driven by curiosity** — I pick up new languages and tools because I genuinely enjoy them, then build real projects to master them
 - 🎯 &nbsp;Obsessed with clean code, snappy UX, and software people actually keep using
