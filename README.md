@@ -151,7 +151,7 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 
 <img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 &nbsp;
-<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layellie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages" />
 
 <br/>
 <br/>
