@@ -1,4 +1,4 @@
-<!-- ===================== HERO ===================== -->
+﻿<!-- ===================== HERO ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Layellie&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Layellie — Full-Stack Developer" />
@@ -151,11 +151,13 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 
 <img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 &nbsp;
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layellie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages" />
+<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
 
 <br/>
 <br/>
 
+<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
+&nbsp;
 <img height="170" src="https://streak-stats.demolab.com/?user=Layellie&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 <br/>
