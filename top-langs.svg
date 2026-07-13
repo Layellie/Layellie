@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="358" viewBox="0 0 340 358">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .lang  { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .pct   { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #b9c1d9; }
+  </style>
+  <rect width="340" height="358" rx="5" fill="#1a1b27"/>
+  <text x="22" y="34" class="title">Top Languages by Code Size</text>
+  
+  <text x="22" y="62" class="lang">C#</text>
+  <text x="318" y="62" text-anchor="end" class="pct">61.2%</text>
+  <rect x="22" y="70" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="70" width="181.2" height="8" rx="4" fill="#178600"/>
+  <text x="22" y="98" class="lang">JavaScript</text>
+  <text x="318" y="98" text-anchor="end" class="pct">21.7%</text>
+  <rect x="22" y="106" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="106" width="64.1" height="8" rx="4" fill="#f1e05a"/>
+  <text x="22" y="134" class="lang">QML</text>
+  <text x="318" y="134" text-anchor="end" class="pct">7.0%</text>
+  <rect x="22" y="142" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="142" width="20.7" height="8" rx="4" fill="#44a51c"/>
+  <text x="22" y="170" class="lang">C++</text>
+  <text x="318" y="170" text-anchor="end" class="pct">6.6%</text>
+  <rect x="22" y="178" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="178" width="19.6" height="8" rx="4" fill="#f34b7d"/>
+  <text x="22" y="206" class="lang">Inno Setup</text>
+  <text x="318" y="206" text-anchor="end" class="pct">1.3%</text>
+  <rect x="22" y="214" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="214" width="4.0" height="8" rx="4" fill="#9da0a8"/>
+  <text x="22" y="242" class="lang">HTML</text>
+  <text x="318" y="242" text-anchor="end" class="pct">0.8%</text>
+  <rect x="22" y="250" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="250" width="4.0" height="8" rx="4" fill="#e34c26"/>
+  <text x="22" y="278" class="lang">PowerShell</text>
+  <text x="318" y="278" text-anchor="end" class="pct">0.8%</text>
+  <rect x="22" y="286" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="286" width="4.0" height="8" rx="4" fill="#9da0a8"/>
+  <text x="22" y="314" class="lang">CSS</text>
+  <text x="318" y="314" text-anchor="end" class="pct">0.6%</text>
+  <rect x="22" y="322" width="296" height="8" rx="4" fill="#2a2e42"/>
+  <rect x="22" y="322" width="4.0" height="8" rx="4" fill="#563d7c"/>
+</svg>

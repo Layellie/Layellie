@@ -156,7 +156,7 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 <br/>
 <br/>
 
-<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
+<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/top-langs.svg" alt="Top languages by code size" />
 &nbsp;
 <img height="170" src="https://streak-stats.demolab.com/?user=Layellie&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
