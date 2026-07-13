@@ -36,7 +36,7 @@
 
 Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
-- 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
+- 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **EyeHealth**, **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
 - 🌐 &nbsp;**Web** — **React, TypeScript & Tailwind** apps like my personal portfolio
 - 💡 &nbsp;**Driven by curiosity** — I pick up new languages and tools because I genuinely enjoy them, then build real projects to master them
 - 🎯 &nbsp;Obsessed with clean code, snappy UX, and software people actually keep using
@@ -63,7 +63,7 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 </tr>
 <tr>
 <td><b>Frameworks&nbsp;&amp;&nbsp;Libraries</b></td>
-<td><img src="https://skillicons.dev/icons?i=dotnet,flutter,react,tailwind,vite" alt="Frameworks" /></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,qt,flutter,react,tailwind,vite" alt="Frameworks" /></td>
 </tr>
 <tr>
 <td><b>Tools&nbsp;&amp;&nbsp;Platforms</b></td>
@@ -113,6 +113,18 @@ Blazing-fast hybrid clipboard manager with built-in **OCR** and reverse image te
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 👁️ [EyeHealth](https://github.com/Layellie/EyeHealth)
+
+Minimalist **native eye-care break reminder** for Windows — 20-20-20 rule, **fullscreen-aware** breaks, English &amp; Turkish UI.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=6D28D9)](https://github.com/Layellie/EyeHealth/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=6D28D9&label=release)](https://github.com/Layellie/EyeHealth/releases)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌐 [Portfolio — layellie.github.io](https://github.com/Layellie/Layellie.github.io)
