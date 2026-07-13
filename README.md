@@ -122,7 +122,7 @@ Minimalist **native eye-care break reminder** for Windows — 20-20-20 rule, **f
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=6D28D9)](https://github.com/Layellie/EyeHealth/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=6D28D9&label=release)](https://github.com/Layellie/EyeHealth/releases)
+[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=6D28D9&label=release&cacheSeconds=3600)](https://github.com/Layellie/EyeHealth/releases)
 
 </td>
 <td width="50%" valign="top">
