@@ -1,27 +1,23 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Layellie&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Layellie — Full-Stack Developer" />
-
-<a href="https://github.com/Layellie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;C%23+%26+C%2B%2B+desktop+tools;Modern+web+apps+with+React;Always+shipping%2C+always+learning" alt="Roles" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/layellie-control-center-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/layellie-control-center-light.svg" />
+  <img width="100%" src="./assets/layellie-control-center-light.svg" alt="Layellie Control Center — Full-Stack Developer" />
+</picture>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Layellie&label=Profile%20views&color=6D28D9&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Layellie&label=Profile%20views&color=0891B2&style=flat" alt="Profile views" />
 <a href="https://github.com/Layellie?tab=followers">
-  <img src="https://img.shields.io/github/followers/Layellie?label=Followers&style=flat&color=6D28D9&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Layellie?label=Followers&style=flat&color=0891B2&logo=github" alt="Followers" />
 </a>
 <a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 <br/>
 
@@ -97,8 +93,8 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 Advanced **RAM purge** &amp; **0.5 ms** system timer-resolution tool for Windows.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9)](https://github.com/Layellie/StandbyAndTimer/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9&label=release)](https://github.com/Layellie/StandbyAndTimer/releases)
+[![Stars](https://img.shields.io/github/stars/Layellie/StandbyAndTimer?style=flat-square&color=0891B2)](https://github.com/Layellie/StandbyAndTimer/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/StandbyAndTimer?style=flat-square&color=0891B2&label=release)](https://github.com/Layellie/StandbyAndTimer/releases)
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +105,7 @@ Blazing-fast hybrid clipboard manager with built-in **OCR** and reverse image te
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=6D28D9)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
+[![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=0891B2)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
 
 </td>
 </tr>
@@ -122,7 +118,7 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-[![Live](https://img.shields.io/badge/Live-Visit-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
+[![Live](https://img.shields.io/badge/Live-Visit-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
 
 </td>
 </tr>
@@ -162,22 +158,6 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 <br/>
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Watch My Contributions Grow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-<br/>
-
 <!-- ===================== 3D CALENDAR ===================== -->
 ## 🧊 3D Contribution Calendar
 
@@ -200,7 +180,7 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 <div align="center">
 
 <a href="https://layellie.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -213,4 +193,4 @@ My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer M
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0E7490,100:0F766E&height=120&section=footer" alt="footer" />

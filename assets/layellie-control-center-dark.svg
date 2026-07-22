@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500" role="img" aria-labelledby="title description">
+  <title id="title">Layellie Control Center — Full-Stack Developer</title>
+  <desc id="description">Animated developer control center showing Layellie's native Windows and modern web development focus.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B11"/>
+      <stop offset="0.52" stop-color="#07121B"/>
+      <stop offset="1" stop-color="#061018"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1B27" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#08131D" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#2DD4BF;#38BDF8" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.58" stop-color="#2DD4BF">
+        <animate attributeName="stop-color" values="#2DD4BF;#38BDF8;#2DD4BF" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#173244"/>
+      <stop offset="0.42" stop-color="#38BDF8"/>
+      <stop offset="0.62" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#173244"/>
+      <animate attributeName="x1" values="-1;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.19"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#244354" stroke-width="1" stroke-opacity="0.22"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.48"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="leftClip"><rect x="32" y="32" width="390" height="436" rx="22"/></clipPath>
+    <clipPath id="rightClip"><rect x="446" y="32" width="702" height="436" rx="22"/></clipPath>
+  </defs>
+
+  <rect width="1180" height="500" rx="30" fill="url(#background)"/>
+  <circle cx="180" cy="90" r="250" fill="url(#cyanGlow)">
+    <animate attributeName="cx" values="180;245;180" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;135;90" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="420" r="300" fill="url(#tealGlow)">
+    <animate attributeName="cx" values="1030;960;1030" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="420;365;420" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="1" y="1" width="1178" height="498" rx="29" fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <!-- Native systems module -->
+  <g filter="url(#shadow)">
+    <rect x="32" y="32" width="390" height="436" rx="22" fill="url(#panel)" stroke="#1A3547"/>
+    <rect x="446" y="32" width="702" height="436" rx="22" fill="url(#panel)" stroke="#1A3547"/>
+  </g>
+
+  <g clip-path="url(#leftClip)">
+    <rect x="32" y="32" width="390" height="436" fill="url(#grid)"/>
+    <rect x="32" y="-120" width="390" height="100" fill="#38BDF8" opacity="0.045">
+      <animate attributeName="y" values="-120;500" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M96 144V302H280" fill="none" stroke="#17394D" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 144V302H280" fill="none" stroke="url(#accent)" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="390" stroke-dashoffset="390" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" values="390;0;0" keyTimes="0;0.36;1" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M96 144V302H280" fill="none" stroke="#D8F7FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 15" opacity="0.75">
+      <animate attributeName="stroke-dashoffset" values="0;-72" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+
+    <circle r="7" fill="#F59E0B" filter="url(#glow)">
+      <animateMotion path="M96 144V302H280" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.86;1" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="62" y="74" fill="#8EA7B5" font-family="Consolas, monospace" font-size="12" letter-spacing="2.2">LAYELLIE // CONTROL CENTER</text>
+    <circle cx="378" cy="69" r="5" fill="#2DD4BF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="translate(62 352)">
+      <text x="0" y="0" fill="#8EA7B5" font-family="Consolas, monospace" font-size="11" letter-spacing="1.8">NATIVE SYSTEM TELEMETRY</text>
+      <path d="M0 43 L22 43 L34 22 L49 56 L64 31 L78 43 L108 43 L121 14 L139 60 L153 34 L168 43 L202 43 L215 27 L232 51 L250 43 L294 43" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round" stroke-dasharray="340" stroke-dashoffset="340">
+        <animate attributeName="stroke-dashoffset" values="340;0" dur="3.8s" repeatCount="indefinite"/>
+      </path>
+      <line x1="0" y1="66" x2="294" y2="66" stroke="#1E3B4C"/>
+      <text x="0" y="88" fill="#2DD4BF" font-family="Consolas, monospace" font-size="12">● SYS.READY</text>
+      <text x="202" y="88" fill="#F59E0B" font-family="Consolas, monospace" font-size="12">LATENCY 0.5ms</text>
+    </g>
+  </g>
+
+  <!-- Data bridge -->
+  <g fill="none" stroke="#2DD4BF" stroke-width="1.5" stroke-opacity="0.38">
+    <path id="bridgeA" d="M390 184 C430 184 432 155 475 155"/>
+    <path id="bridgeB" d="M390 242 C430 242 432 267 475 267"/>
+    <path id="bridgeC" d="M390 298 C430 298 432 377 475 377"/>
+  </g>
+  <g fill="#38BDF8" filter="url(#glow)">
+    <circle r="3.5"><animateMotion dur="2.7s" repeatCount="indefinite" path="M390 184 C430 184 432 155 475 155"/></circle>
+    <circle r="3.5"><animateMotion begin="0.9s" dur="2.7s" repeatCount="indefinite" path="M390 242 C430 242 432 267 475 267"/></circle>
+    <circle r="3.5"><animateMotion begin="1.8s" dur="2.7s" repeatCount="indefinite" path="M390 298 C430 298 432 377 475 377"/></circle>
+  </g>
+
+  <!-- Developer terminal -->
+  <g clip-path="url(#rightClip)">
+    <rect x="446" y="32" width="702" height="50" fill="#0E202D"/>
+    <circle cx="472" cy="57" r="6" fill="#F87171"/>
+    <circle cx="492" cy="57" r="6" fill="#F59E0B"/>
+    <circle cx="512" cy="57" r="6" fill="#2DD4BF"/>
+    <text x="797" y="62" text-anchor="middle" fill="#73909F" font-family="Consolas, monospace" font-size="12">layellie@control-center:~</text>
+    <text x="1115" y="62" text-anchor="end" fill="#2DD4BF" font-family="Consolas, monospace" font-size="11">● ONLINE</text>
+
+    <g font-family="Consolas, monospace">
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+        <text x="480" y="116" fill="#2DD4BF" font-size="14">› whoami</text>
+        <text x="480" y="146" fill="#F2FAFF" font-size="21" font-weight="700" letter-spacing="1.2">SAMET KAŞMER / LAYELLIE</text>
+      </g>
+
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.55s" begin="0.8s" fill="freeze"/>
+        <text x="480" y="187" fill="url(#accent)" font-size="34" font-weight="700" letter-spacing="1.6">FULL-STACK DEVELOPER</text>
+        <rect x="925" y="158" width="3" height="36" rx="1.5" fill="#38BDF8">
+          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>
+        <text x="480" y="229" fill="#2DD4BF" font-size="14">› focus --current</text>
+        <text x="480" y="256" fill="#AFC2CC" font-size="15">Windows tools · polished interfaces · useful software</text>
+      </g>
+
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.5s" begin="2s" fill="freeze"/>
+        <rect x="480" y="284" width="304" height="92" rx="14" fill="#0B1A25" stroke="#1B3D51"/>
+        <text x="500" y="309" fill="#38BDF8" font-size="11" letter-spacing="1.8">NATIVE CORE</text>
+        <text x="500" y="341" fill="#F2FAFF" font-size="17" font-weight="700">C#  ·  C++  ·  Qt</text>
+        <text x="500" y="361" fill="#73909F" font-size="11">WINDOWS / PERFORMANCE / DESKTOP</text>
+      </g>
+
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.5s" begin="2.4s" fill="freeze"/>
+        <rect x="802" y="284" width="312" height="92" rx="14" fill="#0B1A25" stroke="#1B3D51"/>
+        <text x="822" y="309" fill="#2DD4BF" font-size="11" letter-spacing="1.8">WEB LAYER</text>
+        <text x="822" y="341" fill="#F2FAFF" font-size="17" font-weight="700">React  ·  TypeScript</text>
+        <text x="822" y="361" fill="#73909F" font-size="11">VITE / TAILWIND / MODERN UX</text>
+      </g>
+
+      <g opacity="0.72">
+        <animate attributeName="opacity" from="0.72" to="1" dur="0.5s" begin="2.9s" fill="freeze"/>
+        <text x="480" y="416" fill="#2DD4BF" font-size="14">› status</text>
+        <text x="552" y="416" fill="#AFC2CC" font-size="14">building software people actually use</text>
+        <rect x="480" y="436" width="634" height="5" rx="2.5" fill="#183445"/>
+        <rect x="480" y="436" width="0" height="5" rx="2.5" fill="url(#accent)">
+          <animate attributeName="width" values="0;634;634" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <rect x="446" y="-90" width="702" height="80" fill="#D8F7FF" opacity="0.025">
+      <animate attributeName="y" values="-90;510" dur="7.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g fill="#38BDF8" opacity="0.55">
+    <circle cx="24" cy="115" r="2"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1162" cy="156" r="2"><animate attributeName="opacity" values="0.8;0.15;0.8" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1148" cy="438" r="2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
