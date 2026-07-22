@@ -9,12 +9,19 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Layellie&label=Profile%20views&color=0891B2&style=flat" alt="Profile views" />
+<sub><samp>CONTROL CENTER // NETWORK STATUS</samp></sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Layellie">
+  <img height="28" src="https://komarev.com/ghpvc/?username=Layellie&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge" alt="Profile views" />
+</a>
 <a href="https://github.com/Layellie?tab=followers">
-  <img src="https://img.shields.io/github/followers/Layellie?label=Followers&style=flat&color=0891B2&logo=github" alt="Followers" />
+  <img height="28" src="https://img.shields.io/github/followers/Layellie?label=FOLLOWERS&style=for-the-badge&labelColor=07121B&color=0891B2&logo=github&logoColor=white" alt="Followers" />
 </a>
 <a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img height="28" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D9488?style=for-the-badge&labelColor=07121B&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
