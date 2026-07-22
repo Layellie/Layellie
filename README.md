@@ -167,6 +167,22 @@ Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion*
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<sub><samp>SYS-05 // C++ LEARNING CONSOLE // ACTIVE</samp></sub>
+
+### 🧠 [CppMaster Console](https://github.com/Layellie/cppmaster-console)
+
+Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689 hand-written questions, adaptive difficulty, exams and a non-repeating dynamic question generator.
+
+![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=flat-square&logo=cmake&logoColor=white)
+[![CI](https://img.shields.io/github/actions/workflow/status/Layellie/cppmaster-console/ci.yml?branch=master&style=flat-square&label=build&color=0D9488)](https://github.com/Layellie/cppmaster-console/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/Layellie/cppmaster-console?style=flat-square&color=0891B2)](https://github.com/Layellie/cppmaster-console/stargazers)
+
+</td>
+</tr>
 </table>
 
 <br/>
