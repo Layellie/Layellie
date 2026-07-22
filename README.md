@@ -1,32 +1,37 @@
 ﻿<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Layellie&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20C%23%20%2F%20C%2B%2B%20%E2%80%A2%20React&descSize=18&descAlignY=56" alt="Layellie — Full-Stack Developer" />
-
-<a href="https://github.com/Layellie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;C%23+%26+C%2B%2B+desktop+tools;Modern+web+apps+with+React;Always+shipping%2C+always+learning" alt="Roles" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/layellie-control-center-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/layellie-control-center-light.svg" />
+  <img width="100%" src="./assets/layellie-control-center-light.svg" alt="Layellie Control Center — Full-Stack Developer" />
+</picture>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Layellie&label=Profile%20views&color=6D28D9&style=flat" alt="Profile views" />
+<sub><samp>CONTROL CENTER // NETWORK STATUS</samp></sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Layellie">
+  <img height="28" src="https://komarev.com/ghpvc/?username=Layellie&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge" alt="Profile views" />
+</a>
 <a href="https://github.com/Layellie?tab=followers">
-  <img src="https://img.shields.io/github/followers/Layellie?label=Followers&style=flat&color=6D28D9&logo=github" alt="Followers" />
+  <img height="28" src="https://img.shields.io/github/followers/Layellie?label=FOLLOWERS&style=for-the-badge&labelColor=07121B&color=0891B2&logo=github&logoColor=white" alt="Followers" />
 </a>
 <a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img height="28" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D9488?style=for-the-badge&labelColor=07121B&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
+<!-- ===================== MODULE 01: IDENTITY ===================== -->
+<img width="100%" src="./assets/module-01-identity.svg" alt="Module 01 — Identity Module" />
 
 <br/>
-
-<!-- ===================== ABOUT ===================== -->
-## 👋 About Me
 
 <table border="0">
 <tr>
@@ -36,44 +41,50 @@
 
 Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
-- 🛠️ &nbsp;**Desktop** — I build a wide range of Windows applications in **C# / C++**, from productivity tools and UI-driven apps to system utilities (e.g. **EyeHealth**, **StandbyAndTimer**, **AIO-Hybrid-Clipboard**)
-- 🌐 &nbsp;**Web** — **React, TypeScript & Tailwind** apps like my personal portfolio
-- 💡 &nbsp;**Driven by curiosity** — I pick up new languages and tools because I genuinely enjoy them, then build real projects to master them
-- 🎯 &nbsp;Obsessed with clean code, snappy UX, and software people actually keep using
+- 🛠️ &nbsp;**Desktop** — Windows applications and system utilities in **C# / C++**, including **EyeHealth**, **StandbyAndTimer** and **AIO-Hybrid-Clipboard**
+- 🌐 &nbsp;**Web** — modern experiences with **React, TypeScript and Tailwind CSS**
+- 💡 &nbsp;**Driven by curiosity** — learning new languages and tools by turning them into real projects
+- 🎯 &nbsp;Focused on clean code, responsive UX and software people actually keep using
 
 </td>
 <td width="38%" valign="middle" align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" />
+<sub><samp>VISUAL FEED // ACTIVE</samp></sub>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer terminal animation" />
 
 </td>
 </tr>
 </table>
 
 <br/>
-<br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Stack
+<!-- ===================== MODULE 02: RUNTIME ===================== -->
+<img width="100%" src="./assets/module-02-runtime.svg" alt="Module 02 — Runtime Matrix" />
+
+<br/>
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cs,cpp,dart,js,ts,html,css" alt="Languages" /></td>
+<td><samp>01 // LANGUAGES</samp></td>
+<td><img src="https://skillicons.dev/icons?i=cs,cpp,dart,js,ts,html,css" alt="Languages: C#, C++, Dart, JavaScript, TypeScript, HTML and CSS" /></td>
 </tr>
 <tr>
-<td><b>Frameworks&nbsp;&amp;&nbsp;Libraries</b></td>
-<td><img src="https://skillicons.dev/icons?i=dotnet,qt,flutter,react,tailwind,vite" alt="Frameworks" /></td>
+<td><samp>02 // FRAMEWORKS</samp></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,qt,flutter,react,tailwind,vite" alt="Frameworks: .NET, Qt, Flutter, React, Tailwind CSS and Vite" /></td>
 </tr>
 <tr>
-<td><b>Tools&nbsp;&amp;&nbsp;Platforms</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,obsidian,windows" alt="Tools" /></td>
+<td><samp>03 // TOOLCHAIN</samp></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,obsidian,windows" alt="Tools and platforms" /></td>
 </tr>
 <tr>
-<td><b>AI&nbsp;&amp;&nbsp;Workflow</b></td>
+<td><samp>04 // AI WORKFLOW</samp></td>
 <td valign="middle">
-  <a href="https://claude.com/claude-code"><img height="28" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
-  &nbsp;<img height="28" src="https://img.shields.io/badge/Antigravity-1A1B3A?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <a href="https://claude.com/claude-code"><img height="28" src="https://img.shields.io/badge/CLAUDE_CODE-ACTIVE-D97757?style=for-the-badge&labelColor=07121B&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  &nbsp;<img height="28" src="https://img.shields.io/badge/ANTIGRAVITY-ACTIVE-0E7490?style=for-the-badge&labelColor=07121B" alt="Antigravity" />
 </td>
 </tr>
 </table>
@@ -81,26 +92,41 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <br/>
 
 <div align="center">
-<img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="coding at sunset" />
+
+<sub><samp>SECONDARY VISUAL FEED // CODE SESSION</samp></sub>
+
+<br/>
+<br/>
+
+<img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Coding at sunset" />
+
 </div>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
+<br/>
+
+<!-- ===================== MODULE 03: SYSTEMS ===================== -->
+<img width="100%" src="./assets/module-03-systems.svg" alt="Module 03 — Deployed Systems" />
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<sub><samp>SYS-01 // MEMORY &amp; TIMER CONTROL // STABLE</samp></sub>
+
 ### ⏱️ [StandbyAndTimer](https://github.com/Layellie/StandbyAndTimer)
 
-Advanced **RAM purge** &amp; **0.5 ms** system timer-resolution tool for Windows.
+Advanced **RAM purge** and **0.5 ms system timer-resolution** tool for Windows.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9)](https://github.com/Layellie/StandbyAndTimer/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/StandbyAndTimer?style=flat-square&color=6D28D9&label=release)](https://github.com/Layellie/StandbyAndTimer/releases)
+[![Stars](https://img.shields.io/github/stars/Layellie/StandbyAndTimer?style=flat-square&color=0891B2)](https://github.com/Layellie/StandbyAndTimer/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/StandbyAndTimer?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/StandbyAndTimer/releases)
 
 </td>
 <td width="50%" valign="top">
+
+<sub><samp>SYS-02 // HYBRID CLIPBOARD // STABLE</samp></sub>
 
 ### 📋 [AIO-Hybrid-Clipboard](https://github.com/Layellie/AIO-Hybrid-Clipboard)
 
@@ -108,122 +134,147 @@ Blazing-fast hybrid clipboard manager with built-in **OCR** and reverse image te
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=6D28D9)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
+[![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=0891B2)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<sub><samp>SYS-03 // EYE CARE SERVICE // STABLE</samp></sub>
+
 ### 👁️ [EyeHealth](https://github.com/Layellie/EyeHealth)
 
-Minimalist **native eye-care break reminder** for Windows — 20-20-20 rule, **fullscreen-aware** breaks, English &amp; Turkish UI.
+Minimalist native eye-care reminder for Windows with the **20-20-20 rule**, fullscreen-aware breaks and English/Turkish UI.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=6D28D9)](https://github.com/Layellie/EyeHealth/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=6D28D9&label=release&cacheSeconds=3600)](https://github.com/Layellie/EyeHealth/releases)
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-6.8-41CD52?style=flat-square&logo=qt&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=0891B2)](https://github.com/Layellie/EyeHealth/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=0D9488&label=release&cacheSeconds=3600)](https://github.com/Layellie/EyeHealth/releases)
 
 </td>
 <td width="50%" valign="top">
 
+<sub><samp>SYS-04 // WEB INTERFACE // DEPLOYED</samp></sub>
+
 ### 🌐 [Portfolio — layellie.github.io](https://github.com/Layellie/Layellie.github.io)
 
-My personal portfolio, built with **React, Vite, Tailwind CSS** &amp; **Framer Motion**.
+Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion**.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-[![Live](https://img.shields.io/badge/Live-Visit-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
+[![Live](https://img.shields.io/badge/LIVE-OPEN-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://layellie.github.io/)
 
 </td>
 </tr>
 </table>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="700" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-
-<br/>
 <br/>
 
-<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-&nbsp;
-<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+<!-- ===================== MODULE 04: TELEMETRY ===================== -->
+<img width="100%" src="./assets/module-04-telemetry.svg" alt="Module 04 — System Telemetry" />
 
 <br/>
-<br/>
-
-<img width="340" src="https://raw.githubusercontent.com/Layellie/Layellie/main/top-langs.svg" alt="Top languages by code size" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com/?user=Layellie&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-<br/>
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-<br/>
-<br/>
-
-<img src="https://raw.githubusercontent.com/Layellie/Layellie/main/github-metrics.svg" alt="Metrics panel" />
-
-</div>
-
-<br/>
-<br/>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Watch My Contributions Grow
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="700" src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" />
+</picture>
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
+  <img width="340" src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub statistics" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="340" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" />
+</picture>
+
+<br/>
+<br/>
+
+<img width="340" src="./top-langs.svg" alt="Top languages by code size" />
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=07121B&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=default&amp;hide_border=true&amp;background=F7FBFD&amp;ring=0284C7&amp;fire=D97706&amp;currStreakLabel=0D9488" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Layellie&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=07121B&amp;color=AFC2CC&amp;line=2DD4BF&amp;point=38BDF8&amp;area_color=0E7490&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=F7FBFD&amp;color=455B68&amp;line=0D9488&amp;point=0284C7&amp;area_color=67E8F9&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" alt="Contribution activity graph" />
+</picture>
+
+<br/>
+<br/>
+
+<sub><samp>EXTENDED METRICS FEED // AUTOMATIC REFRESH</samp></sub>
+
+<br/>
+<br/>
+
+<img src="./github-metrics.svg" alt="Extended GitHub metrics panel" />
+
+</div>
+
+<br/>
+
+<!-- ===================== MODULE 05: TERRAIN ===================== -->
+<img width="100%" src="./assets/module-05-terrain.svg" alt="Module 05 — Contribution Terrain" />
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </picture>
 
 </div>
 
 <br/>
-<br/>
 
-<!-- ===================== 3D CALENDAR ===================== -->
-## 🧊 3D Contribution Calendar
+<!-- ===================== MODULE 06: UPLINKS ===================== -->
+<img width="100%" src="./assets/module-06-uplinks.svg" alt="Module 06 — Communication Uplinks" />
+
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img width="100%" alt="3D contribution calendar" src="https://raw.githubusercontent.com/Layellie/Layellie/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
+<sub><samp>SELECT A COMMUNICATION CHANNEL</samp></sub>
 
 <br/>
 <br/>
-
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Connect
-
-<div align="center">
 
 <a href="https://layellie.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img height="30" src="https://img.shields.io/badge/PORTFOLIO-OPEN%20CHANNEL-0891B2?style=for-the-badge&labelColor=07121B&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img height="30" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D9488?style=for-the-badge&labelColor=07121B&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Layellie">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img height="30" src="https://img.shields.io/badge/GITHUB-FOLLOW-0E7490?style=for-the-badge&labelColor=07121B&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" alt="footer" />
+<!-- ===================== CONTROL CENTER FOOTER ===================== -->
+<img width="100%" src="./assets/control-center-footer.svg" alt="Layellie Control Center — End of transmission" />
