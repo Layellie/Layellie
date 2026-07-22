@@ -42,7 +42,6 @@
 Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
 
 - 🛠️ &nbsp;**Desktop** — Windows applications and system utilities in **C# / C++**, including **EyeHealth**, **StandbyAndTimer** and **AIO-Hybrid-Clipboard**
-- 📱 &nbsp;**Mobile** — building **DailyWell**, a **Flutter (Dart)** app with reminders, gamification and a home-screen widget
 - 🌐 &nbsp;**Web** — modern experiences with **React, TypeScript and Tailwind CSS**
 - 💡 &nbsp;**Driven by curiosity** — learning new languages and tools by turning them into real projects
 - 🎯 &nbsp;Focused on clean code, responsive UX and software people actually keep using
@@ -151,7 +150,7 @@ Minimalist native eye-care reminder for Windows with the **20-20-20 rule**, full
 ![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6.8-41CD52?style=flat-square&logo=qt&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=0891B2)](https://github.com/Layellie/EyeHealth/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/EyeHealth/releases)
+[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=0D9488&label=release&cacheSeconds=3600)](https://github.com/Layellie/EyeHealth/releases)
 
 </td>
 <td width="50%" valign="top">
@@ -203,6 +202,8 @@ Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion*
 <br/>
 <br/>
 
+<img width="340" src="./top-langs.svg" alt="Top languages by code size" />
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=07121B&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=default&amp;hide_border=true&amp;background=F7FBFD&amp;ring=0284C7&amp;fire=D97706&amp;currStreakLabel=0D9488" />
