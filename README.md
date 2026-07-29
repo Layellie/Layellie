@@ -195,41 +195,6 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="700" src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" />
-</picture>
-
-<br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
-  <img width="340" src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub statistics" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="340" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" />
-</picture>
-
-<br/>
-<br/>
-
-<img width="340" src="./top-langs.svg" alt="Top languages by code size" />
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=07121B&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Layellie&amp;theme=default&amp;hide_border=true&amp;background=F7FBFD&amp;ring=0284C7&amp;fire=D97706&amp;currStreakLabel=0D9488" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Layellie&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak" />
-</picture>
-
-<br/>
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=07121B&amp;color=AFC2CC&amp;line=2DD4BF&amp;point=38BDF8&amp;area_color=0E7490&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=F7FBFD&amp;color=455B68&amp;line=0D9488&amp;point=0284C7&amp;area_color=67E8F9&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" alt="Contribution activity graph" />
