@@ -29,6 +29,8 @@ jobs:
         # snk lets the snake walk outside the grid and leaves a margin around it.
         # Shrinking the viewBox to the grid (53 x 7 cells, 16px each) hides that.
         run: |
+          # dist/ is created by a Docker action as root, so take ownership first.
+          sudo chown -R "$(id -u):$(id -g)" dist
           for f in dist/*.svg; do
             sed -i -E '1s/viewBox="[^"]*" width="[0-9]+" height="[0-9]+"/viewBox="-2 -2 850 116" width="850" height="116"/' "$f"
             grep -q 'viewBox="-2 -2 850 116"' "$f" || { echo "viewBox rewrite failed for $f"; exit 1; }
