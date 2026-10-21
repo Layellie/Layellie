@@ -1,10 +1,10 @@
-﻿<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/layellie-control-center-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/layellie-control-center-light.svg" />
-  <img width="100%" src="./assets/layellie-control-center-light.svg" alt="Layellie Control Center — Full-Stack Developer" />
+  <img width="100%" src="./assets/layellie-control-center-light.svg" alt="Layellie Control Center, Full-Stack Developer" />
 </picture>
 
 <br/>
@@ -14,9 +14,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Layellie">
-  <img height="28" src="https://komarev.com/ghpvc/?username=Layellie&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge" alt="Profile views" />
-</a>
 <a href="https://github.com/Layellie?tab=followers">
   <img height="28" src="https://img.shields.io/github/followers/Layellie?label=FOLLOWERS&style=for-the-badge&labelColor=07121B&color=0891B2&logo=github&logoColor=white" alt="Followers" />
 </a>
@@ -29,7 +26,7 @@
 <br/>
 
 <!-- ===================== MODULE 01: IDENTITY ===================== -->
-<img width="100%" src="./assets/module-01-identity.svg" alt="Module 01 — Identity Module" />
+<img width="100%" src="./assets/module-01-identity.svg" alt="Module 01: Identity Module" />
 
 <br/>
 
@@ -37,14 +34,9 @@
 <tr>
 <td width="62%" valign="top">
 
-> _Full-Stack Developer — turning ideas into fast, polished software, from low-level Windows internals to pixel-perfect React interfaces._
+> _I build Windows tools and web interfaces, mostly in C#, C++ and React._
 
-Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming graduate from Türkiye. I genuinely love programming, and I follow that curiosity across the whole stack — building everything from **desktop applications in C# / C++** to **cross-platform mobile apps** and **modern web experiences**, always chasing the next thing to learn.
-
-- 🛠️ &nbsp;**Desktop** — Windows applications and system utilities in **C# / C++**, including **EyeHealth**, **StandbyAndTimer** and **AIO-Hybrid-Clipboard**
-- 🌐 &nbsp;**Web** — modern experiences with **React, TypeScript and Tailwind CSS**
-- 💡 &nbsp;**Driven by curiosity** — learning new languages and tools by turning them into real projects
-- 🎯 &nbsp;Focused on clean code, responsive UX and software people actually keep using
+Hi, I'm Samet (Layellie), a Computer Programming graduate from Türkiye. My desktop software is mostly C# and C++: a RAM purge tool that sets the Windows timer resolution to 0.5 ms, a clipboard manager with OCR, and a Qt eye-break reminder. On the web side I work with React, TypeScript and Tailwind CSS. I also wrote a terminal app for learning C++ with 2,908 questions and a generator that doesn't repeat itself.
 
 </td>
 <td width="38%" valign="middle" align="center">
@@ -63,7 +55,7 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <br/>
 
 <!-- ===================== MODULE 02: RUNTIME ===================== -->
-<img width="100%" src="./assets/module-02-runtime.svg" alt="Module 02 — Runtime Matrix" />
+<img width="100%" src="./assets/module-02-runtime.svg" alt="Module 02: Runtime Matrix" />
 
 <br/>
 
@@ -105,7 +97,7 @@ Hi, I'm **Layellie** — a **Full-Stack Developer** and Computer Programming gra
 <br/>
 
 <!-- ===================== MODULE 03: SYSTEMS ===================== -->
-<img width="100%" src="./assets/module-03-systems.svg" alt="Module 03 — Deployed Systems" />
+<img width="100%" src="./assets/module-03-systems.svg" alt="Module 03: Deployed Systems" />
 
 <br/>
 
@@ -157,7 +149,7 @@ Minimalist native eye-care reminder for Windows with the **20-20-20 rule**, full
 
 <sub><samp>SYS-04 // WEB INTERFACE // DEPLOYED</samp></sub>
 
-### 🌐 [Portfolio — layellie.github.io](https://github.com/Layellie/Layellie.github.io)
+### 🌐 [Portfolio: layellie.github.io](https://layellie.github.io/)
 
 Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion**.
 
@@ -174,7 +166,7 @@ Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion*
 
 ### 🧠 [CppMaster Console](https://github.com/Layellie/cppmaster-console)
 
-Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689 hand-written questions, adaptive difficulty, exams and a non-repeating dynamic question generator.
+Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,908 hand-written questions, adaptive difficulty, exams and a non-repeating dynamic question generator.
 
 ![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -188,16 +180,16 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689
 <br/>
 
 <!-- ===================== MODULE 04: TELEMETRY ===================== -->
-<img width="100%" src="./assets/module-04-telemetry.svg" alt="Module 04 — System Telemetry" />
+<img width="100%" src="./assets/module-04-telemetry.svg" alt="Module 04: System Telemetry" />
 
 <br/>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=07121B&amp;color=AFC2CC&amp;line=2DD4BF&amp;point=38BDF8&amp;area_color=0E7490&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;bg_color=F7FBFD&amp;color=455B68&amp;line=0D9488&amp;point=0284C7&amp;area_color=67E8F9&amp;area=true&amp;hide_border=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Layellie&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=CONTROL%20CENTER%20ACTIVITY" alt="Contribution activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Layellie/Layellie/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </picture>
 
 <br/>
@@ -215,7 +207,7 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689
 <br/>
 
 <!-- ===================== MODULE 05: TERRAIN ===================== -->
-<img width="100%" src="./assets/module-05-terrain.svg" alt="Module 05 — Contribution Terrain" />
+<img width="100%" src="./assets/module-05-terrain.svg" alt="Module 05: Contribution Terrain" />
 
 <br/>
 
@@ -232,7 +224,7 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689
 <br/>
 
 <!-- ===================== MODULE 06: UPLINKS ===================== -->
-<img width="100%" src="./assets/module-06-uplinks.svg" alt="Module 06 — Communication Uplinks" />
+<img width="100%" src="./assets/module-06-uplinks.svg" alt="Module 06: Communication Uplinks" />
 
 <br/>
 
@@ -258,4 +250,4 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,689
 <br/>
 
 <!-- ===================== CONTROL CENTER FOOTER ===================== -->
-<img width="100%" src="./assets/control-center-footer.svg" alt="Layellie Control Center — End of transmission" />
+<img width="100%" src="./assets/control-center-footer.svg" alt="Layellie Control Center, end of transmission" />

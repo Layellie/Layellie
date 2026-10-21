@@ -16,7 +16,9 @@ jobs:
       - name: Generate metrics panel
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN only sees this repo (1 repository, 0 languages).
+          # METRICS_TOKEN is a personal access token that can read all repos.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Layellie
           filename: github-metrics.svg
           template: classic
