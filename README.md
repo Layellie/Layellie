@@ -32,7 +32,7 @@
 
 > _I build Windows tools and web interfaces, mostly in C#, C++ and React._
 
-Hi, I'm Samet (Layellie), a Computer Programming graduate from Türkiye. My desktop software is mostly C# and C++: a RAM purge tool that sets the Windows timer resolution to 0.5 ms, a clipboard manager with OCR, and a Qt eye-break reminder. On the web side I work with React, TypeScript and Tailwind CSS. I also wrote a terminal app for learning C++ with 2,908 questions and a generator that doesn't repeat itself.
+Hi, I'm Samet (Layellie) from Türkiye. I graduated in Computer Programming and I'm now studying Management Information Systems. My desktop software is mostly C# and C++: a RAM purge tool that sets the Windows timer resolution to 0.5 ms, a clipboard manager with OCR, and a Qt eye-break reminder. On the web side I work with React, TypeScript and Tailwind CSS. I also wrote a terminal app for learning C++ with 2,908 questions and a generator that doesn't repeat itself.
 
 <br/>
 
