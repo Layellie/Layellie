@@ -30,27 +30,9 @@
 
 <br/>
 
-<table border="0">
-<tr>
-<td width="62%" valign="top">
-
 > _I build Windows tools and web interfaces, mostly in C#, C++ and React._
 
 Hi, I'm Samet (Layellie), a Computer Programming graduate from Türkiye. My desktop software is mostly C# and C++: a RAM purge tool that sets the Windows timer resolution to 0.5 ms, a clipboard manager with OCR, and a Qt eye-break reminder. On the web side I work with React, TypeScript and Tailwind CSS. I also wrote a terminal app for learning C++ with 2,908 questions and a generator that doesn't repeat itself.
-
-</td>
-<td width="38%" valign="middle" align="center">
-
-<sub><samp>VISUAL FEED // ACTIVE</samp></sub>
-
-<br/>
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer terminal animation" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -82,17 +64,6 @@ Hi, I'm Samet (Layellie), a Computer Programming graduate from Türkiye. My desk
 </table>
 
 <br/>
-
-<div align="center">
-
-<sub><samp>SECONDARY VISUAL FEED // CODE SESSION</samp></sub>
-
-<br/>
-<br/>
-
-<img width="78%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="Coding at sunset" />
-
-</div>
 
 <br/>
 
