@@ -25,6 +25,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Crop snake SVG to the contribution grid
+        # snk lets the snake walk outside the grid and leaves a margin around it.
+        # Shrinking the viewBox to the grid (53 x 7 cells, 16px each) hides that.
+        run: |
+          for f in dist/*.svg; do
+            sed -i -E '1s/viewBox="[^"]*" width="[0-9]+" height="[0-9]+"/viewBox="-2 -2 850 116" width="850" height="116"/' "$f"
+            grep -q 'viewBox="-2 -2 850 116"' "$f" || { echo "viewBox rewrite failed for $f"; exit 1; }
+          done
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
