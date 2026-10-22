@@ -38,6 +38,8 @@ Hi, I'm Samet (Layellie) from Türkiye. I graduated in Computer Programming and 
 
 <br/>
 
+<div align="center">
+
 <table>
 <tr>
 <td><samp>01 // LANGUAGES</samp></td>
@@ -59,6 +61,8 @@ Hi, I'm Samet (Layellie) from Türkiye. I graduated in Computer Programming and 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
