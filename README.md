@@ -17,9 +17,6 @@
 <a href="https://github.com/Layellie?tab=followers">
   <img height="28" src="https://img.shields.io/github/followers/Layellie?label=FOLLOWERS&style=for-the-badge&labelColor=07121B&color=0891B2&logo=github&logoColor=white" alt="Followers" />
 </a>
-<a href="https://www.linkedin.com/in/samet-ka%C5%9Fmer-0118b13b1/">
-  <img height="28" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D9488?style=for-the-badge&labelColor=07121B&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 </div>
 
@@ -65,8 +62,6 @@ Hi, I'm Samet (Layellie) from Türkiye. I graduated in Computer Programming and 
 
 <br/>
 
-<br/>
-
 <!-- ===================== MODULE 03: SYSTEMS ===================== -->
 <img width="100%" src="./assets/module-03-systems.svg" alt="Module 03: Deployed Systems" />
 
@@ -98,6 +93,7 @@ Blazing-fast hybrid clipboard manager with built-in **OCR** and reverse image te
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=0891B2)](https://github.com/Layellie/AIO-Hybrid-Clipboard/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/AIO-Hybrid-Clipboard?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/AIO-Hybrid-Clipboard/releases)
 
 </td>
 </tr>
@@ -113,7 +109,7 @@ Minimalist native eye-care reminder for Windows with the **20-20-20 rule**, full
 ![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-6.8-41CD52?style=flat-square&logo=qt&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/Layellie/EyeHealth?style=flat-square&color=0891B2)](https://github.com/Layellie/EyeHealth/stargazers)
-[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=0D9488&label=release&cacheSeconds=3600)](https://github.com/Layellie/EyeHealth/releases)
+[![Release](https://img.shields.io/github/v/release/Layellie/EyeHealth?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/EyeHealth/releases)
 
 </td>
 <td width="50%" valign="top">
@@ -143,6 +139,7 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,908
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=flat-square&logo=cmake&logoColor=white)
 [![CI](https://img.shields.io/github/actions/workflow/status/Layellie/cppmaster-console/ci.yml?branch=master&style=flat-square&label=build&color=0D9488)](https://github.com/Layellie/cppmaster-console/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/Layellie/cppmaster-console?style=flat-square&color=0891B2)](https://github.com/Layellie/cppmaster-console/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/cppmaster-console?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/cppmaster-console/releases)
 
 </td>
 </tr>
