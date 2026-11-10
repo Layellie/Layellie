@@ -131,7 +131,7 @@ Personal portfolio built with **React, Vite, Tailwind CSS** and **Framer Motion*
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <sub><samp>SYS-05 // C++ LEARNING CONSOLE // ACTIVE</samp></sub>
 
@@ -144,6 +144,21 @@ Terminal-based **C++20 learning application** with a 100-topic curriculum, 2,908
 [![CI](https://img.shields.io/github/actions/workflow/status/Layellie/cppmaster-console/ci.yml?branch=master&style=flat-square&label=build&color=0D9488)](https://github.com/Layellie/cppmaster-console/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/Layellie/cppmaster-console?style=flat-square&color=0891B2)](https://github.com/Layellie/cppmaster-console/stargazers)
 [![Release](https://img.shields.io/github/v/release/Layellie/cppmaster-console?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/cppmaster-console/releases)
+
+</td>
+<td width="50%" valign="top">
+
+<sub><samp>SYS-06 // TASK &amp; ACTIVITY TRACKER // ACTIVE</samp></sub>
+
+### ✅ [CALABATICA](https://github.com/Layellie/calabatica-todo-list)
+
+Neon HUD-style **to-do list and activity tracker** for Windows with natural-language quick add, **focus timer**, habit streaks and a 30-day activity chart.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+[![CI](https://img.shields.io/github/actions/workflow/status/Layellie/calabatica-todo-list/ci.yml?branch=main&style=flat-square&label=build&color=0D9488)](https://github.com/Layellie/calabatica-todo-list/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/Layellie/calabatica-todo-list?style=flat-square&color=0891B2)](https://github.com/Layellie/calabatica-todo-list/stargazers)
+[![Release](https://img.shields.io/github/v/release/Layellie/calabatica-todo-list?style=flat-square&color=0D9488&label=release)](https://github.com/Layellie/calabatica-todo-list/releases)
 
 </td>
 </tr>
